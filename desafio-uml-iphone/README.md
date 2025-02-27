@@ -1,4 +1,4 @@
-# 📱 **iPhone Simulation Project**
+# 📱 **Desafio Iphone UML**
 
 Este projeto simula as funcionalidades básicas de um **iPhone** lançado em 2007, utilizando **interfaces e classes** em Java. Ele contém funcionalidades como **Reprodutor Musical**, **Aparelho Telefônico** e **Navegador Internet**. Cada funcionalidade é representada por uma interface e implementada na classe `iPhone`.
 
